@@ -8,8 +8,9 @@ print ('\n')
 
         # add quiet mode
         # add filtering to Host Up | Host DOWN | Host is Not Known
-
-
+        # add screenshot script
+        # add web app analitics (wappalizer)
+        # add CVE scanner for web app1icatons
 
 
 
